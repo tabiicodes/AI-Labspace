@@ -1,0 +1,9 @@
+
+ Accuracy (75%): The model got 3 out of 4 predictions correct.
+ Triangle Precision (50%): Out of 2 triangle predictions, only 1 was correct.
+ Square Precision (100%): All predicted squares were correct.
+ Triangle Recall (100%): The model found all actual triangles.
+ Square Recall (66.67%): The model found 2 out of 3 actual squares.
+
+CONCLUSION
+The Random Forest model achieved 75% accuracy. It correctly classified most of the records, but made one mistake. 
